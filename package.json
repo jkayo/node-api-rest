@@ -1,0 +1,23 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Node Api Rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkayo/node-api-rest.git"
+  },
+  "author": "joaquim kayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkayo/node-api-rest/issues"
+  },
+  "homepage": "https://github.com/jkayo/node-api-rest#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  }
+}
